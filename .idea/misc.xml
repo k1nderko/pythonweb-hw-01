@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="enabledOnReformat" value="true" />
     <option name="pathToExecutable" value="C:\Users\kinde\AppData\Local\Programs\Python\Python310\Scripts\black.exe" />
-    <option name="sdkName" value="Python 3.12 (goit-pythonweb-hw-01)" />
+    <option name="sdkName" value="Python 3.13 (pythonweb-hw-01)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (goit-pythonweb-hw-01)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (pythonweb-hw-01)" project-jdk-type="Python SDK" />
 </project>
